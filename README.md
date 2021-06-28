@@ -11,7 +11,8 @@ The three folders in this repository each contain code (and results) attributing
 
 ### Prerequisites
 
-Requirements for running all scripts can be found in the [requirements.txt](requirements.txt). This can be install by running `pip3 install -r requirements.txt`.
+Requirements for running all scripts can be found in the [requirements.txt](requirements.txt). 
+This can be install by running `pip3 install -r requirements.txt`.
 
 ## Built With
 
