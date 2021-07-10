@@ -5,9 +5,9 @@ This repository contains the code and data for the thesis of Eva Zillen.
 ## Getting Started
 
 The three folders in this repository each contain code (and results) attributing to the research done on 3D printed pneumatic actuators, done by Eva Zillen at [Delft University of Technology](https://www.tudelft.nl/3me/over/afdelingen/biomechanical-engineering).
-- [dimension-calculations/](dimension-calculations/) contains code which calculates the dimensions of the cealing grooves and variables of the non-conventional shapes.
-- [pneumatic-actuator-results/](pneumatic-actuator-results/) contains the code and data used to visualize the results from the static leakage, dynamic leakage, and friction tests. 
-- [compressed-air-chamber-results/](compressed-air-chamber-results/) contains the code and data used to visualize the leakage in 3D printed compressed-air chambers. 
+- [method_dimension-calculations/](method_dimension-calculations/) contains code which calculates the dimensions of the cealing grooves and variables of the non-conventional shapes.
+- [results_pneumatic-actuator/](results_pneumatic-actuator/) contains the code and data used to visualize the results from the static leakage, dynamic leakage, and friction tests. 
+- [appendix_compressed-air_chamber/](appendix_compressed-air_chamber/) contains the code and data used to visualize the leakage in 3D printed compressed-air chambers. 
 
 ### Prerequisites
 
