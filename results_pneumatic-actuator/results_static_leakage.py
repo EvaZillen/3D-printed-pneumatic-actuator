@@ -4,8 +4,6 @@
 """
 In this script, the results of the static leakage tests are visualised.
 All visualisations are stored in /figures/
-
-To show the visualisations in this Notebook, remove or comment plt.clf() after plt.savefig()
 """
 
 __author__ = "Eva Zillen"
@@ -92,9 +90,6 @@ plt.clf()
 
 
 # #### Static leakage plot 25.7mm (without NAP310 for clarity)
-
-# In[7]:
-
 
 plt.plot(static_leakage['O-ring']['Time'],static_leakage['O-ring']['PressureDrop(bar)'],'tab:blue',alpha=0.25, linestyle='dotted',linewidth=3)
 plt.plot(static_leakage['NAPN']['Time'],static_leakage['NAPN']['PressureDrop(bar)'],'tab:orange',alpha=0.25, linestyle='dashdot')

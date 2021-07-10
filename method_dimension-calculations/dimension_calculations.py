@@ -133,7 +133,7 @@ print(f"--------------------------------------")
 
 # ### Kidney shape
 
-def optimize_range(ID, S, h):
+def optimize_range(ID, S, gamma):
     # Variables defining the kidney shape (see Figure 2 in report)
     r = symbols('r')
     a = 0
