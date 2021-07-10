@@ -18,6 +18,10 @@ Requirements for running all scripts can be found in the [requirements.txt](requ
   - [Python 3.8.2](https://www.python.org/)
   - [Jupyter notebook](https://jupyter.org/)
 
+## Data collected with
+
+  - [LabView by NI](https://www.ni.com/nl-nl/shop/labview.html)
+
 ## Authors
 
   - **Eva Zillen**
