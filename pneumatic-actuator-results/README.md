@@ -1,4 +1,5 @@
 ## Results - pneumatic actuator
+Here our 3D printed pneumatic actuators are evaluated on static leakage, dynamic leakage, and dynamic sliding friction force.
 
 ### Code
 Simply run `jupyter notebook` in this folder to view the interactive Notebooks
