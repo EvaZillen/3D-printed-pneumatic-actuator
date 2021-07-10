@@ -130,9 +130,6 @@ plt.clf()
 
 # #### Dynamic leakage plot different shapes with lower clearance
 
-# In[9]:
-
-
 # To smoothen out the lines a rolling window of 10 are applied
 plt.plot(dynamic_leakage['Stadium']['Time'],dynamic_leakage['Stadium']['Pressure(bar)'].rolling(window=10).mean(),'tab:olive',alpha=0.5,label='Stadium 0.5 mm clearance',linestyle='dashdot')
 plt.plot(dynamic_leakage['Kidney']['Time'],dynamic_leakage['Kidney']['Pressure(bar)'].rolling(window=10).mean(),'tab:cyan',alpha=0.5,label='Kidney 0.5 mm clearance')
@@ -163,10 +160,6 @@ alpha = {
     2: 35.5,
     3: 35.5
 }
-
-
-# In[11]:
-
 
 # Store repeatability data in a dictionary
 dynamic_rerun = {}
